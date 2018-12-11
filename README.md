@@ -10,13 +10,14 @@
  npm i
 
  npm run dev
+ 
+ ```
 
  访问
 
-  [http://localhost:8080/home](http://localhost:8080/home)
+[http://localhost:8080/home](http://localhost:8080/home)
 
 根据devtools设置不同的环境，然后刷新，加载不同的模版
- ```
 
 # 打包
 
